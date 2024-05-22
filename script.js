@@ -204,7 +204,7 @@ const questions = [
       },
       {
         text: "Technologies",
-        correct: "true",
+        correct: "false",
       },
       { text: "Objets", correct: "false" },
       { text: "Lieux", correct: "true" },
@@ -216,11 +216,11 @@ const questions = [
   },
   {
     question:
-      "Caractéristiaues du développement de l'économie de l'information",
+      "Caractéristiques du développement de l'économie de l'information",
     answers: [
       {
         text: "Maitrise de l'environnement des affaires",
-        correct: "true",
+        correct: "false",
       },
       {
         text: "Plus grande connaissance des employés",
@@ -229,7 +229,7 @@ const questions = [
       { text: "Plus courte durée de vie du produit", correct: "true" },
       {
         text: "Connaissance considérée comme un actif de taille sur les plans de la production  et de la stratégie",
-        correct: "false",
+        correct: "true",
       },
     ],
   },
@@ -371,8 +371,8 @@ const questions = [
         text: "Système de Traitement des Transactions",
         correct: "true",
       },
-      { text: "Système d'Information décisionnels", correct: "treu" },
-      { text: "Système d'Information pour les Dirigeants", correct: "false" },
+      { text: "Système d'Information Décisionnels", correct: "false" },
+      { text: "Système d'Information pour les Dirigeants", correct: "true" },
       { text: "Système de Traitement des Taches", correct: "false" },
       { text: "Système d'Information de Gestion ", correct: "true" },
       { text: "Système d'Aide à la Décision", correct: "true" },
